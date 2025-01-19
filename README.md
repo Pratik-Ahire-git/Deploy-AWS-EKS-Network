@@ -1,5 +1,7 @@
 # AWS N-Tier Network With EKS Cluster Deployment
 
+![Deploy Ntier EKS Cluster](image.png)
+
 ## Project Overview
 
 In this project, I have deployed a scalable and secure N-tier architecture on AWS using Terraform. The architecture consists of a Virtual Private Cloud (VPC) with two public and two private subnets, enabling efficient routing and security for an EKS (Elastic Kubernetes Service) cluster. Additionally, I have set up an S3 bucket as a backend for storing Terraform state files.
